@@ -7,14 +7,12 @@
 
 <h3>Java</h3>
   Любой бекенд: сервера, игровые сервера, боты, парсеры, автоматизация, вселенные... <br>
-  Example: <br>
-    https://t.me/BeKosherBot
+  Example: https://t.me/BeKosherBot
 
 
 <h3>PHP</h3>
   Любые CMSки: магазины, блоги, обвязки... <br>
-  Example: <br>
-  https://kosher.ru
+  Example: https://kosher.ru
 
 
 <h3>SQL</h3>
@@ -27,5 +25,5 @@
   Уверенное шаманство
   
   
-  
+  <br><br><br>
 <h3 align="center">А так в айти всю жизнь.</h3>
